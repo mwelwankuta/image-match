@@ -1,5 +1,5 @@
 {
-  "name": "hrvst-image-match",
+  "name": "image-match",
   "version": "1.0.0",
   "main": "src/index.ts",
   "scripts": {
